@@ -16,5 +16,3 @@ psycopg2-binary
 python-dotenv
 
 stop yt video:
-line 18 \notes_django\backend\backend\settings.py
-time : 10:15
