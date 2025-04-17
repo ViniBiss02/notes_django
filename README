@@ -2,6 +2,10 @@ command env:
 
 .\env\Scripts\Activate.ps1
 
+run project:
+"cd backend"
+"python manage.py runserver"
+
 pip install -r requirements.txt:
 
 asgiref
